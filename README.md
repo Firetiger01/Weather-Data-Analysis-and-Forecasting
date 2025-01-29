@@ -68,8 +68,5 @@ pip install -r requirements.txt
 - **Forecast Accuracy**: ARIMA achieved high accuracy with low MAE and RMSE values.
 - **Actionable Insights**: Dynamic thresholds for air quality monitoring and resource planning recommendations.
 
-## PM Accelerator Mission
-> By making industry-leading tools and education available to individuals from all backgrounds, we level the playing field for future PM leaders. This project aligns with the mission by employing advanced methodologies and tools for impactful decision-making.
-
 ## Contributing
 Contributions are welcome! If you have suggestions or improvements, feel free to create a pull request.
